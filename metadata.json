@@ -1,0 +1,6 @@
+{
+  "name": "TRUSTWAVE BD",
+  "description": "E-commerce platform for premium electronics, gadgets, smartphones, jerseys, and accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
